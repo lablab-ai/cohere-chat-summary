@@ -1,4 +1,4 @@
-# cohere chat summary
+# Cohere chat summary
 
 Summarize any chat conversation in one sentence with the help of Cohere.ai
 
